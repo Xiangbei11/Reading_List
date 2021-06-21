@@ -1,17 +1,15 @@
 # 阅读
+
 “读书之于我，那是人生之中最重要的事，只次于呼吸空气、饮水、吃饭、睡觉。我曾经想：坐牢十年而可以在狱中阅读天下书籍，或者是十年中充分有，但不得阅读任何书刊——两者由我选择，我一定选择‘坐牢读书’。”
 
 
-## ✨  Philosophy
-Inspired by the [vpython](https://vpython.org/) *manifesto* "3D programming for ordinary mortals",
-`vedo` makes it easy to work with 3D pointclouds, meshes and volumes,
-in just a few lines of code, even for less experienced programmers.
+## 🦌  已读
 
-`vedo` is based on [VTK](https://www.vtk.org/) and [numpy](http://www.numpy.org/),
-with no other dependencies.
+🥇 2021.04.02 [《活动变人形》](https://book.douban.com/subject/26810934/) 王蒙
 
 
-## 💾  Installation
+
+## 🐿️  想读
 ```bash
 pip install vedo
 ```
