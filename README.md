@@ -3,22 +3,28 @@
 “读书之于我，那是人生之中最重要的事，只次于呼吸空气、饮水、吃饭、睡觉。我曾经想：坐牢十年而可以在狱中阅读天下书籍，或者是十年中充分有，但不得阅读任何书刊——两者由我选择，我一定选择‘坐牢读书’。”
 
 
-## 🦌  已读
+## 📰 已读
 
-🥇 2021.04.02 [《活动变人形》](https://book.douban.com/subject/26810934/) 王蒙
+🌅 2020/04/01 [《早晨从中午开始》](https://book.douban.com/subject/10597811/) 路遥
+
+👺 2020/04/02 [《活动变人形》](https://book.douban.com/subject/26810934/) 王蒙
 
 
+---------------------------------------------------------------------
+## 🗞 想读
 
-## 🐿️  想读
-```bash
-pip install vedo
-```
+🈲️ 《近代中国史》 徐中约 <br>
+🈲️ 《枪杆子1949》 张正隆 <br>
+🈲️ 《雪白血红》 张正隆 <br>
+🈲️ 《墓碑》 杨继绳 <br>
+🈲️ 《红太阳》高华 <br>
+🈲️ 《上海生死劫》 郑念 <br>
 
 <details>
 <summary>additional installation details <i>(click to expand)</i> </summary>
 
 - As some of the features work better and faster on the older VTK version 8 you can install it via:<br>
-`pip install vtk==8.1.2`
+ --= pip install vtk==8.1.2`
 
 - To install the latest _dev_ version of `vedo`: <br>
 `pip install -U git+https://github.com/marcomusy/vedo.git`
@@ -36,7 +42,7 @@ Command line in windows-10 will then look something like e.g.: <br>
 
 ---------------------------------------------------------------------
 
-📌 **Done?** Run any of the built-in examples. In a terminal, type e.g.:
+📌 **Done?** Run any of the built-in examples. In a terminal, type e.g.
 
 **`vedo -r covid19`**
 
