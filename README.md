@@ -42,19 +42,19 @@
 
 [《枪杆子1949》](https://book.douban.com/subject/3225740/) 张正隆
 
-⚖️ [《判断力批判》](https://book.douban.com/subject/1137244/) 康德
+[《判断力批判》](https://book.douban.com/subject/1137244/) 康德
 
-🪦 [《人都是要死的》](https://book.douban.com/subject/1340498/) 波伏娃
+[《人都是要死的》](https://book.douban.com/subject/1340498/) 波伏娃
 
-🏊 [《静静的顿河》](https://book.douban.com/subject/4908877/) 肖洛霍夫
+[《静静的顿河》](https://book.douban.com/subject/4908877/) 肖洛霍夫
 
-👋 [《告别马焦拉》](https://book.douban.com/subject/1201844/) 瓦·拉斯普京 
+[《告别马焦拉》](https://book.douban.com/subject/1201844/) 瓦·拉斯普京 
 
-👩🏼‍❤️‍👨🏼 [《欧根·奥涅金》](https://book.douban.com/subject/3241695/) 普希金
+[《欧根·奥涅金》](https://book.douban.com/subject/3241695/) 普希金
 
 📽 [《都柏林人》](https://book.douban.com/subject/4908872/) 乔伊斯
 
-🎒 [《在中国大地上》](https://book.douban.com/subject/35148942/) 保罗·索鲁
+[《在中国大地上》](https://book.douban.com/subject/35148942/) 保罗·索鲁
 
 [《复活》](https://book.douban.com/subject/1880990/) 托尔斯泰
 
