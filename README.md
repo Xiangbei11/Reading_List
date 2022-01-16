@@ -72,19 +72,19 @@
 
 ⛏ [《党员、党权与党争》](https://book.douban.com/subject/5372471/) 王奇生 
 
-🧔🏾‍♂️ [《鲁迅评传》](https://book.douban.com/subject/1491083/) 曹聚仁
+[《鲁迅评传》](https://book.douban.com/subject/1491083/) 曹聚仁
 
-💫 [《全球文明史》](https://book.douban.com/subject/1792303/) 皮特·斯特恩斯 
+[《全球文明史》](https://book.douban.com/subject/1792303/) 皮特·斯特恩斯 
 
-🌏 [《世界文明史》](https://book.douban.com/subject/1103066/) 麦克高希
+[《世界文明史》](https://book.douban.com/subject/1103066/) 麦克高希
 
-🌏 [《世界文明史》](https://book.douban.com/subject/2184884/) 丹尼斯·舍曼 
+[《世界文明史》](https://book.douban.com/subject/2184884/) 丹尼斯·舍曼 
 
-🌍 [《世界文明史》](https://book.douban.com/subject/10518124/) 阿德勒 
+[《世界文明史》](https://book.douban.com/subject/10518124/) 阿德勒 
 
-📜 [《中国古代文化史》](https://book.douban.com/subject/3062799/) 阴法鲁
+[《中国古代文化史》](https://book.douban.com/subject/3062799/) 阴法鲁
 
-🏥 [《英国病人》](https://book.douban.com/subject/10583075/) 迈克尔·翁达杰
+[《英国病人》](https://book.douban.com/subject/10583075/) 迈克尔·翁达杰
 
 [《群魔》](https://book.douban.com/subject/26324821/) 陀思妥耶夫斯基
 
