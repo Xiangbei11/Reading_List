@@ -56,21 +56,21 @@
 
 🎒 [《在中国大地上》](https://book.douban.com/subject/35148942/) 保罗·索鲁
 
-🪦 [《复活》](https://book.douban.com/subject/1880990/) 托尔斯泰
+[《复活》](https://book.douban.com/subject/1880990/) 托尔斯泰
 
-❣️ [《爱向虚空茫然中》](https://book.douban.com/subject/24817332/) 王安忆
+[《爱向虚空茫然中》](https://book.douban.com/subject/24817332/) 王安忆
 
-🇬🇷 [《古代的希腊和罗马》](https://book.douban.com/subject/20431880/) 吴于廑
+[《古代的希腊和罗马》](https://book.douban.com/subject/20431880/) 吴于廑
 
-♣️ [《金瓶梅词话（梦梅管校本）》](https://book.douban.com/subject/2054034/) 兰陵笑笑生
+[《金瓶梅词话（梦梅管校本）》](https://book.douban.com/subject/2054034/) 兰陵笑笑生
 
-🔥 [《烧纸》](https://book.douban.com/subject/30441551/) 李沧东
+[《烧纸》](https://book.douban.com/subject/30441551/) 李沧东
 
-👔 [《对权威的服从》](https://book.douban.com/subject/20477116/) 米尔格拉姆 
+[《对权威的服从》](https://book.douban.com/subject/20477116/) 米尔格拉姆 
 
-⌛️ [《国史大纲》](https://book.douban.com/subject/26803736/) 钱穆 
+[《国史大纲》](https://book.douban.com/subject/26803736/) 钱穆 
 
-⛏ [《党员、党权与党争》](https://book.douban.com/subject/5372471/) 王奇生 
+[《党员、党权与党争》](https://book.douban.com/subject/5372471/) 王奇生 
 
 [《鲁迅评传》](https://book.douban.com/subject/1491083/) 曹聚仁
 
