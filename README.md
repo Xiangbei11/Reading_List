@@ -192,25 +192,25 @@
 
 《来自遗忘的最深处》 帕特里克·莫迪亚诺
 
-《夜深人静》  2019-10-21
+《夜深人静》 韩少功
 
-《中国诗史》  2019-05-04
+《中国诗史》 陆侃如
 
-《社会学》  2019-04-21
+《社会学》 安东尼·吉登斯
 
-《扎根》  2019-04-21
+《扎根》 韩东
 
-《犯罪妇女访谈实录》  2019-04-21
+《犯罪妇女访谈实录》 王金玲
 
-《被拐卖婚迁妇女访谈实录》  2019-04-21
+《被拐卖婚迁妇女访谈实录》 王金玲
 
-《A BRIEF HISTORY CHINESE FICTION-(中国小说史略)》  2019-04-21
+《A BRIEF HISTORY CHINESE FICTION》 鲁迅 / 杨宪益
 
-《春明外史》  2019-04-21
+《春明外史》 张恨水
 
-《China's Philological Turn》  2019-04-12
+《China's Philological Turn》 Ori Sela
 
-《Civilizations》  2019-02-27
+《Civilizations: Ten Thousand Years of Ancient History》 Jane McIntosh
 
 
 
