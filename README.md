@@ -217,3 +217,32 @@
 《看不见的森林》
 
 《香蕉、沙滩与基地》
+
+Karl Marx and Frederick Engels from The German Ideology 《德意志意识形态》
+
+Ideology and Ideological State Apparatuses (1970) 《意识形态和意识形态国家》Louis Althusser  
+
+The mirror stage as formative of the function of the I as revealed in psychoanalytic experience 《镜子理论》 拉康
+
+《第二性》西蒙波娃
+
+《The system and the speaking subject》 Julia Kristeva 
+
+Myth Today 《今日神话》 Roland barthes
+
+Death of the Author 《作者之死》 Roland barthes
+
+7.超経典祝頻(youtube有) Martha
+Rosler B] semiotics of the ki tchen
+8.福柯的what is an author
+9.最适合学生的符号学教科书
+Stuart Hall (斯圏亜特·霍尓)的
+i8 4, «Representation: Cultural
+Representations and Signi fying
+Practices》，中文有，但翻译稀巴烂，
+原著语言非常易读，别看中文版，能把
+.人看晕一。
+10. Judith Butler B] per formative
+Acts and Gender constitution: An
+Eassay in Phenomenology and Feminist
+Theory
