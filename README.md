@@ -232,17 +232,8 @@ Myth Today 《今日神话》 Roland barthes
 
 Death of the Author 《作者之死》 Roland barthes
 
-7.超経典祝頻(youtube有) Martha
-Rosler B] semiotics of the ki tchen
-8.福柯的what is an author
-9.最适合学生的符号学教科书
-Stuart Hall (斯圏亜特·霍尓)的
-i8 4, «Representation: Cultural
-Representations and Signi fying
-Practices》，中文有，但翻译稀巴烂，
-原著语言非常易读，别看中文版，能把
-.人看晕一。
-10. Judith Butler B] per formative
-Acts and Gender constitution: An
-Eassay in Phenomenology and Feminist
-Theory
+《what is an author》 福柯
+ 
+《Representation: Cultural Representations and Signi fying Practices》  Stuart Hall (斯图亚特·霍尓) 别看中文版
+
+《Performative Acts and Gender constitution: An Eassay in Phenomenology and Feminist Theory》 Judith Butler
