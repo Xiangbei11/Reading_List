@@ -1,6 +1,6 @@
 # 读
 
-“读书之于我，那是人生之中最重要的事，只次于呼吸空气、饮水、吃饭、睡觉。我曾经想：坐牢十年而可以在狱中阅读天下书籍，或者是十年中充分有，但不得阅读任何书刊——两者由我选择，我一定选择‘坐牢读书’。”
+“读书之于我，那是人生之中最重要的事，只次于呼吸空气、饮水、吃饭、睡觉。我曾经想：坐牢十年而可以在狱中阅读天下书籍，或者是十年中充分自由，但不得阅读任何书刊——两者由我选择，我一定选择‘坐牢读书’。”
 
 <br>
 
@@ -241,3 +241,5 @@ Death of the Author 《作者之死》 Roland barthes
 《Representation: Cultural Representations and Signi fying Practices》  Stuart Hall (斯图亚特·霍尓) 别看中文版
 
 《Performative Acts and Gender constitution: An Eassay in Phenomenology and Feminist Theory》 Judith Butler
+
+«The Big Bang Theory: The Definitive, Inside Story of the Epic Hit Series》 Glamour
