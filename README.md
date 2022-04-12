@@ -1,6 +1,6 @@
 # 读
 
-“读书之于我，那是人生之中最重要的事，只次于呼吸空气、饮水、吃饭、睡觉。我曾经想：坐牢十年而可以在狱中阅读天下书籍，或者是十年中充分自由，但不得阅读任何书刊——两者由我选择，我一定选择‘坐牢读书’。”
+“读书之于我，那是人生之中最重要事，只次于呼吸空气、饮水、吃饭、睡觉。我曾经想：坐牢十年而可以在狱中阅读天下书籍，或者是十年中充分自由，但不得阅读任何书刊——两者由我选择，我一定选择‘坐牢读书’。”
 
 <br>
 
@@ -91,8 +91,6 @@
 [《中国古代文化史》](https://book.douban.com/subject/3062799/) 阴法鲁
 
 [《英国病人》](https://book.douban.com/subject/10583075/) 迈克尔·翁达杰
-
-[《群魔》](https://book.douban.com/subject/26324821/) 陀思妥耶夫斯基
 
 [《人不单靠面包活着》](https://book.douban.com/subject/24871605/) 陀思妥耶夫斯基
 
@@ -219,8 +217,6 @@
 《Civilizations: Ten Thousand Years of Ancient History》 Jane McIntosh
 
 《看不见的森林》
-
-《香蕉、沙滩与基地》
 
 Karl Marx and Frederick Engels from The German Ideology 《德意志意识形态》
 
