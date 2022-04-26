@@ -242,5 +242,23 @@ Death of the Author 《作者之死》 Roland barthes
 
 《活着为了讲述》
 
-Ideology and Ideological State Apparatuses (1970) 《意识形态和意识形态国家》Louis Althusser  〉
-Ideology and Ideological State Apparatuses (1970) 《意识形态和意识形态国家》Louis Althusser  
+
+George Eliot: Middlemarch
+
+George Eliot: Mill on the Floss
+
+George Eliot: Daniel Deronda
+
+George Gissing: New Grub Street
+
+Walt Whitman, Song of Myself
+
+Emily Bronte: Wuthering Heights
+
+Charlotte Bronte: Jane Eyre
+
+Wilkie Collins: The Woman in White 
+
+
+
+
