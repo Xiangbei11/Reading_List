@@ -322,3 +322,45 @@ David Foster Wallace: Brief Interviews with Hideous Men
 James Joyce: A Portrait of the Artist as a Young Man, Ulysses
 
 James Joyce: Dubliners
+
+Robert L owell, L ife Studies
+
+Virginia Woolf: Jacob's Room, To the Lighthouse
+
+Samuel Beckett: Waiting for Godot
+
+Samuel Beckett: Murphy
+
+Samuel Beckett: Watt
+
+Samuel Beckett: Endgame
+
+Samuel Beckett: Krapp's Last Tape
+
+Samuel Beckett: All That Fall
+
+Joseph Conrad: L ord Jim
+
+Joseph Conrad: The Secret Agent
+
+Joseph Conrad: Nostromo
+
+Ford Madox Ford: The Good Soldier
+
+Ernest Hemingway: The Sun Also Rises
+
+Christopher Isherwood: Berlin Stories, Prater Violet
+
+D. H. L awrence: Sons and L overs 
+
+D. H. Lawrence: The Rainbow
+
+D. H. L awrence: Women in L ove
+
+Virginia Woolf: Mrs Dalloway
+
+Virginia Woolf: The Waves
+
+Virginia Woolf: Between the Acts
+
+Virginia Woolf: A Room of One's Own
