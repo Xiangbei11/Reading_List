@@ -239,3 +239,8 @@ Death of the Author 《作者之死》 Roland barthes
 《Performative Acts and Gender constitution: An Eassay in Phenomenology and Feminist Theory》 Judith Butler
 
 «The Big Bang Theory: The Definitive, Inside Story of the Epic Hit Series》 Glamour
+
+《活着为了讲述》
+
+Ideology and Ideological State Apparatuses (1970) 《意识形态和意识形态国家》Louis Althusser  〉
+Ideology and Ideological State Apparatuses (1970) 《意识形态和意识形态国家》Louis Althusser  
