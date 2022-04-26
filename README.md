@@ -281,4 +281,30 @@ Oscar Wilde: The Importance of Being Earnest
 
 Oscar Wilde: The Picture of Dorian Gray
 
+Henry James: Washington Square
 
+Henry James: The Europeans
+
+Henry James: The American
+
+Henry James: The Aspern Papers
+
+Henry James: The Ambassadors
+
+Henry James: The Wings of the Dove
+
+Henry James: The Golden Bow 
+
+Henry James: The Portrait of a Lady
+
+Charles Dickens: Great Expectations
+
+Charles Dickens: Hard Times
+
+Charles Dickens: Oliver Twist 
+
+Charles Dickens: David Copperfield
+
+Charles Dickens: Bleak House 
+
+Charles Dickens: Our Mutual Friend
