@@ -308,3 +308,17 @@ Charles Dickens: David Copperfield
 Charles Dickens: Bleak House 
 
 Charles Dickens: Our Mutual Friend
+
+Joan Didion: Slouching Towards Bethlehem
+
+E. M. Forster: Howards End
+
+E. M. Forster: The Longest Journey
+
+E. M. Forster: A Passage to India
+
+David Foster Wallace: Brief Interviews with Hideous Men
+
+James Joyce: A Portrait of the Artist as a Young Man, Ulysses
+
+James Joyce: Dubliners
