@@ -259,6 +259,26 @@ Charlotte Bronte: Jane Eyre
 
 Wilkie Collins: The Woman in White 
 
+Elizabeth Gaskell: Mary Barton
 
+Elizabeth Gaskell: The Life of Charlotte Bronte
+
+Thomas Hardy: Jude the Obscure
+
+Thomas Hardy: Far From the Madding Crowd
+
+Thomas Hardy: The Mayor of Casterbridge 
+
+Thomas Hardy: The Woodlanders
+
+Thomas Hardy: Tess of the D'Urbervilles Gerard
+
+John Ruskin: Sesame and Lilies
+
+Bram Stoker: Dracula 
+
+Oscar Wilde: The Importance of Being Earnest
+
+Oscar Wilde: The Picture of Dorian Gray
 
 
