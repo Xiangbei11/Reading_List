@@ -216,8 +216,6 @@
 
 《Civilizations: Ten Thousand Years of Ancient History》 Jane McIntosh
 
-《看不见的森林》
-
 Karl Marx and Frederick Engels from The German Ideology 《德意志意识形态》
 
 Ideology and Ideological State Apparatuses (1970) 《意识形态和意识形态国家》Louis Althusser  
